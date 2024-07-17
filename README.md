@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on applications of Machine Learning in the domains of Mechanical Engineering. <br>👯 I’m looking to collaborate on Physics Informed Machine Learning. <br>🤝 Currently, I am looking for a PhD position in Physics Informed Machine Learning. <br>🌱 I’m currently learning Python, Machine Learning, Neural Networks. 
+🔭 I’m currently working on applications of Machine Learning in the domains of Mechanical Engineering. <br>👯 I’m looking to collaborate on Physics Informed Machine Learning. <br>🤝 Currently, I am looking for a PhD position in Physics Informed Machine Learning. <br>🌱 I’m currently learning Python, Machine Learning, Neural Networks, I will soon start uploading my codes. 
 
 
 # 💻 Tech Stack:
